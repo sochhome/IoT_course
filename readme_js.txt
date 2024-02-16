@@ -15,3 +15,6 @@ Remote Explorer --> Open Remote Repository --> Open Repository from GitHub <Eete
 GitHub for VS Code is requesting additional permissions
 
 Git warning: failed to remove .ipython/profile_default/history.sqlite: Ivalid argument.
+
+(base) PS C:\Users\Joseph\My Drive (solegoodss@gmail.com)\Project\IoT_course> git config --global user.email "sohogood@yahoo.com"
+(base) PS C:\Users\Joseph\My Drive (solegoodss@gmail.com)\Project\IoT_course> git config --global user.name "sochhome" 
