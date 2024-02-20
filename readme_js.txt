@@ -18,3 +18,19 @@ Git warning: failed to remove .ipython/profile_default/history.sqlite: Ivalid ar
 
 (base) PS C:\Users\Joseph\My Drive (solegoodss@gmail.com)\Project\IoT_course> git config --global user.email "sohogood@yahoo.com"
 (base) PS C:\Users\Joseph\My Drive (solegoodss@gmail.com)\Project\IoT_course> git config --global user.name "sochhome" 
+
+# 20240220
+(base) PS C:\Users\Joseph\My Drive (solegoodss@gmail.com)\Project\IoT_course> cd D:\soch1\Projects\IoT_course
+(base) PS D:\soch1\Projects\IoT_course> py -3 -m venv .venv
+(base) PS D:\soch1\Projects\IoT_course> .venv\Scripts\activate
+(.venv) (base) PS D:\soch1\Projects\IoT_course> cd "C:\Users\Joseph\My Drive (solegoodss@gmail.com)\Project\IoT_course"
+
+cd D:\soch1\Projects\IoT_course
+.venv\Scripts\activate
+cd "C:\Users\Joseph\My Drive (solegoodss@gmail.com)\Project\IoT_course"
+
+pip3 install jupyter 
+
+jupyter notebook
+https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set?resource=download
+kaggle_dataset01.zip
