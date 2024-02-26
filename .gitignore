@@ -1,3 +1,10 @@
+/.env
 /data.csv
 /test02.ipynb
 /readme_js.txt
+/vizhubapi_01login.py
+/vizhubapi_02Response.py
+/vizhubapi_03ReadData.py
+/vizhubapi_kev01.py
+/vizhubapi_REST.py
+csv_data/
